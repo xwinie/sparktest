@@ -44,5 +44,6 @@ object ScalConnMongo {
     //    df3.filter(df3("type") < 110).show()
     df3.filter(df3("type") < 110).show()
     //    println(df3.first.toJson)
+
   }
 }
